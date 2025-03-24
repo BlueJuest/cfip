@@ -1,0 +1,50 @@
+# EMBY 规则
+# 非越
+- DOMAIN-SUFFIX,sfcj.org,DIRECT,🎯 全球直连
+# 比比服
+- DOMAIN-SUFFIX,beebi.org,DIRECT,🎯 全球直连
+- IP-CIDR,167.235.118.41/32,DIRECT,🎯 全球直连
+# SDL
+- DOMAIN-SUFFIX,saturday.video,DIRECT,🎯 全球直连
+# 天南
+- DOMAIN-SUFFIX,us.nanflix.net,DIRECT,🎯 全球直连
+# jingzhe
+- DOMAIN-SUFFIX,jingzhe.pro,DIRECT,🎯 全球直连
+# 起点站
+- DOMAIN-SUFFIX,28.al,DIRECT,🎯 全球直连
+# July
+- IP-CIDR,45.142.176.135/32,DIRECT,🎯 全球直连
+# peach
+- DOMAIN-SUFFIX,embymv.link,DIRECT,🎯 全球直连
+# jsq
+- DOMAIN,jsq.mooguu.xyz,DIRECT,🎯 全球直连
+# cc公益
+- DOMAIN,cc.coemn.com,DIRECT,🎯 全球直连
+# 69云
+- DOMAIN-SUFFIX,69yun69.com,DIRECT,🎯 全球直连
+# 探花TV
+- DOMAIN-SUFFIX,tanhuatv.site,DIRECT,🎯 全球直连
+# kiku
+- DOMAIN-SUFFIX,ucloudhost.top,🎥 Emby
+# 二次元
+- DOMAIN-SUFFIX,nijigem.by,🎥 Emby
+# NYA
+- DOMAIN,emby.bangumi.ca,🎥 Emby
+# 纸片人
+- DOMAIN-SUFFIX,embyplus.org,🎥 Emby
+# Misty
+- DOMAIN-SUFFIX,misty.cx,🎥 Emby
+# 墨云阁
+- DOMAIN-SUFFIX,mobaiemby.site,🎥 Emby
+# 叶子
+- DOMAIN-SUFFIX,yezi.my,🎥 Emby
+- DOMAIN-SUFFIX,697758.best,DIRECT,🎯 全球直连
+# 舒服
+- DOMAIN-SUFFIX,mcjoker.xyz,🎥 Emby
+# 未响音乐
+- DOMAIN,music.mefun.org,DIRECT,🎯 全球直连
+
+# testflight
+- DOMAIN,testflight.apple.com,🚀 节点选择
+# github
+- DOMAIN,raw.githubusercontent.com,🚀 GitHub
