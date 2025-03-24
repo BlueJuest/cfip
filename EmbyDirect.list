@@ -1,0 +1,26 @@
+# EMBY 规则
+# 非越
+- DOMAIN-SUFFIX,sfcj.org
+# 比比服
+- DOMAIN-SUFFIX,beebi.org
+- IP-CIDR,167.235.118.41/32
+# SDL
+- DOMAIN-SUFFIX,saturday.video
+# 天南
+- DOMAIN-SUFFIX,us.nanflix.net
+# jingzhe
+- DOMAIN-SUFFIX,jingzhe.pro
+# 起点站
+- DOMAIN-SUFFIX,28.al
+# July
+- IP-CIDR,45.142.176.135/32
+# peach
+- DOMAIN-SUFFIX,embymv.link
+# jsq
+- DOMAIN,jsq.mooguu.xyz
+# cc公益
+- DOMAIN,cc.coemn.com
+# 69云
+- DOMAIN-SUFFIX,69yun69.com
+# 探花TV
+- DOMAIN-SUFFIX,tanhuatv.site
