@@ -1,0 +1,24 @@
+# EMBY 规则
+# 非越
+HOST-SUFFIX,sfcj.org,GlobalMedia
+# 比比服
+HOST-SUFFIX,beebi.org,GlobalMedia
+IP-CIDR,167.235.118.41/32,GlobalMedia
+# SDL
+HOST-SUFFIX,saturday.video,GlobalMedia
+# 天南
+HOST-SUFFIX,us.nanflix.net,GlobalMedia
+# jingzhe
+HOST-SUFFIX,jingzhe.pro,GlobalMedia
+# 起点站
+HOST-SUFFIX,28.al,GlobalMedia
+# peach
+HOST-SUFFIX,embymv.link,GlobalMedia
+# jsq
+HOST,jsq.mooguu.xyz,GlobalMedia
+# cc公益
+HOST,cc.coemn.com,GlobalMedia
+# 69云
+HOST-SUFFIX,69yun69.com,GlobalMedia
+# 探花TV
+HOST-SUFFIX,tanhuatv.site,GlobalMedia
