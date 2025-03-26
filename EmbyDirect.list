@@ -12,8 +12,6 @@ DOMAIN-SUFFIX,us.nanflix.net
 DOMAIN-SUFFIX,jingzhe.pro
 # 起点站
 DOMAIN-SUFFIX,28.al
-# July
-IP-CIDR,45.142.176.135/32
 # peach
 DOMAIN-SUFFIX,embymv.link
 # jsq
