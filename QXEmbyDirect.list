@@ -1,24 +1,39 @@
 # EMBY 规则
 # 非越
-HOST-SUFFIX,sfcj.org,Direct
+HOST-SUFFIX,sfcj.org
 # 比比服
-HOST-SUFFIX,beebi.org,Direct
-IP-CIDR,167.235.118.41/32,Direct
+HOST-SUFFIX,beebi.org
+IP-CIDR,167.235.118.41/32
 # SDL
-HOST-SUFFIX,saturday.video,Direct
+HOST-SUFFIX,saturday.video
 # 天南
-HOST-SUFFIX,us.nanflix.net,Direct
+HOST-SUFFIX,us.nanflix.net
 # jingzhe
-HOST-SUFFIX,jingzhe.pro,Direct
+HOST-SUFFIX,jingzhe.pro
 # 起点站
-HOST-SUFFIX,28.al,Direct
+HOST-SUFFIX,28.al
 # peach
-HOST-SUFFIX,embymv.link,Direct
+HOST-SUFFIX,embymv.link
 # jsq
-HOST,jsq.mooguu.xyz,Direct
+HOST,jsq.mooguu.xyz
+# 墨云阁
+HOST-SUFFIX,mobaiemby.site
 # cc公益
-HOST,cc.coemn.com,Direct
+HOST,cc.coemn.com
+HOST-SUFFIX,carryz.net
 # 69云
-HOST-SUFFIX,69yun69.com,Direct
+HOST-SUFFIX,69yun69.com
 # 探花TV
-HOST-SUFFIX,tanhuatv.site,Direct
+HOST-SUFFIX,tanhuatv.site
+# YounoEmby
+HOST-SUFFIX,younoyes.com
+#HOST,eco.younoyes.com
+#HOST,us.younoyes.com
+#HOST,dmit.younoyes.com
+#HOST,claw.younoyes.com
+# 西瓜🍉
+HOST-SUFFIX,1024.one
+HOST-SUFFIX,1024.name
+HOST-SUFFIX,j8.work
+# Coco
+HOST,www.259772.xyz
