@@ -1,3 +1,8 @@
+# PlumberEmby
+DOMAIN,plumber.nezhasu.com,国际媒体
+DOMAIN,shouer.910427.xyz,国际媒体
+# YounoEmby
+DOMAIN,emby.younoyes.com,国际媒体
 # July
 IP-CIDR,45.142.176.135/32,国际媒体
 # kiku
@@ -16,3 +21,4 @@ HOST-SUFFIX,mobaiemby.site,国际媒体
 HOST-SUFFIX,yezi.my,国际媒体
 # 舒服
 HOST-SUFFIX,mcjoker.xyz,国际媒体
+
