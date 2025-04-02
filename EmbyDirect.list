@@ -1,4 +1,6 @@
 # EMBY 规则
+# 二次元
+DOMAIN-SUFFIX,cdn.bgp.yt
 # 非越
 DOMAIN-SUFFIX,sfcj.org
 # 比比服
@@ -18,6 +20,9 @@ DOMAIN-SUFFIX,embymv.link
 DOMAIN,jsq.mooguu.xyz
 # 墨云阁
 DOMAIN-SUFFIX,mobaiemby.site
+# 叶子
+DOMAIN-SUFFIX,yezi.my
+DOMAIN,yezi.697758.best
 # cc公益
 DOMAIN,cc.coemn.com
 DOMAIN-SUFFIX,carryz.net
