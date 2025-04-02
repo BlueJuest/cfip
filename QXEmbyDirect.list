@@ -1,39 +1,39 @@
 # EMBY 规则
 # 非越
-HOST-SUFFIX,sfcj.org
+HOST-SUFFIX,sfcj.org,Direct
 # 比比服
-HOST-SUFFIX,beebi.org
-IP-CIDR,167.235.118.41/32
+HOST-SUFFIX,beebi.org,Direct
+IP-CIDR,167.235.118.41/32,Direct
 # SDL
-HOST-SUFFIX,saturday.video
+HOST-SUFFIX,saturday.video,Direct
 # 天南
-HOST-SUFFIX,us.nanflix.net
+HOST-SUFFIX,us.nanflix.net,Direct
 # jingzhe
-HOST-SUFFIX,jingzhe.pro
+HOST-SUFFIX,jingzhe.pro,Direct
 # 起点站
-HOST-SUFFIX,28.al
+HOST-SUFFIX,28.al,Direct
 # peach
-HOST-SUFFIX,embymv.link
+HOST-SUFFIX,embymv.link,Direct
 # jsq
-HOST,jsq.mooguu.xyz
+HOST,jsq.mooguu.xyz,Direct
 # 墨云阁
-HOST-SUFFIX,mobaiemby.site
+HOST-SUFFIX,mobaiemby.site,Direct
 # cc公益
-HOST,cc.coemn.com
-HOST-SUFFIX,carryz.net
+HOST,cc.coemn.com,Direct
+HOST-SUFFIX,carryz.net,Direct
 # 69云
-HOST-SUFFIX,69yun69.com
+HOST-SUFFIX,69yun69.com,Direct
 # 探花TV
-HOST-SUFFIX,tanhuatv.site
+HOST-SUFFIX,tanhuatv.site,Direct
 # YounoEmby
-HOST-SUFFIX,younoyes.com
-#HOST,eco.younoyes.com
-#HOST,us.younoyes.com
-#HOST,dmit.younoyes.com
-#HOST,claw.younoyes.com
+HOST-SUFFIX,younoyes.com,Direct
+#HOST,eco.younoyes.com,Direct
+#HOST,us.younoyes.com,Direct
+#HOST,dmit.younoyes.com,Direct
+#HOST,claw.younoyes.com,Direct
 # 西瓜🍉
-HOST-SUFFIX,1024.one
-HOST-SUFFIX,1024.name
-HOST-SUFFIX,j8.work
+HOST-SUFFIX,1024.one,Direct
+HOST-SUFFIX,1024.name,Direct
+HOST-SUFFIX,j8.work,Direct
 # Coco
-HOST,www.259772.xyz
+HOST,www.259772.xyz,Direct
