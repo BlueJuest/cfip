@@ -13,5 +13,7 @@ DOMAIN,emby.bangumi.ca
 DOMAIN-SUFFIX,embyplus.org
 # Misty
 DOMAIN-SUFFIX,misty.cx
+# July
+IP-CIDR,45.142.176.135/32
 # 舒服
 DOMAIN-SUFFIX,mcjoker.xyz
