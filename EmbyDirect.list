@@ -31,11 +31,10 @@ DOMAIN-SUFFIX,69yun69.com
 # 探花TV
 DOMAIN-SUFFIX,tanhuatv.site
 # YounoEmby
-DOMAIN-SUFFIX,younoyes.com
-#DOMAIN,eco.younoyes.com
-#DOMAIN,us.younoyes.com
-#DOMAIN,dmit.younoyes.com
-#DOMAIN,claw.younoyes.com
+DOMAIN,jp.younoyes.com
+DOMAIN,us.younoyes.com
+DOMAIN,dmit.younoyes.com
+DOMAIN,claw.younoyes.com
 # 西瓜🍉
 DOMAIN-SUFFIX,1024.one
 DOMAIN-SUFFIX,1024.name
