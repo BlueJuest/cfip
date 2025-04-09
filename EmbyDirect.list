@@ -1,6 +1,8 @@
 # EMBY 规则
 # 二次元
 DOMAIN-SUFFIX,cdn.bgp.yt
+# NYA
+DOMAIN,ap-cn01.emby.bangumi.ca
 # 非越
 DOMAIN-SUFFIX,sfcj.org
 # 比比服
