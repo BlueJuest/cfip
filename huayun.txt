@@ -45,4 +45,3 @@ trojan://38c81e8b-a87c-47a4-a289-910fa6fdcd72@ipv6.hongxingdl.vip:42765?type=tcp
 trojan://38c81e8b-a87c-47a4-a289-910fa6fdcd72@ipv6.hongxingdl.vip:48291?type=tcp&security=tls&sni=mmbiz1.redapricotcloud.com&allowInsecure=1#%E6%96%B0%E5%8A%A0%E5%9D%A1%20IPV6
 trojan://38c81e8b-a87c-47a4-a289-910fa6fdcd72@ipv6.hongxingdl.vip:28713?type=tcp&security=tls&sni=mmbiz1.redapricotcloud.com&allowInsecure=1#%E6%97%A5%E6%9C%AC%20IPV6
 trojan://38c81e8b-a87c-47a4-a289-910fa6fdcd72@ipv6.hongxingdl.vip:21489?type=tcp&security=tls&sni=mmbiz.redapricotcloud.com&allowInsecure=1#%E7%BE%8E%E5%9B%BD%20IPV6
-vless://15372547-4201-48e4-9d4b-8691d9915ceb@154.26.183.51:443?security=tls&type=ws&path=%2Fbing&host=usb.cayuo.me&allowInsecure=1&sni=usb.cayuo.me#US2-GCP
