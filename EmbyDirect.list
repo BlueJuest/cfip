@@ -52,3 +52,6 @@ DOMAIN-SUFFIX,viclub.top
 DOMAIN-SUFFIX,vfing.de
 # 結束バンド
 DOMAIN-SUFFIX,biliblili.uk
+# Violet
+DOMAIN,emby.violet.run
+IP-CIDR,46.3.109.178/32
