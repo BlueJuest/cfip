@@ -56,3 +56,5 @@ DOMAIN-SUFFIX,biliblili.uk
 # Violet
 DOMAIN,emby.violet.run
 IP-CIDR,46.3.109.178/32
+# DuskyEmby
+DOMAIN-SUFFIX,eidix.store
