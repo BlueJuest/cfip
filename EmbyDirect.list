@@ -56,3 +56,8 @@ DOMAIN,emby.violet.run
 IP-CIDR,46.3.109.178/32
 # DuskyEmby
 DOMAIN-SUFFIX,eidix.store
+# 特卡影城
+DOMAIN-SUFFIX,carlos.trade
+# 月饼emby
+DOMAIN-SUFFIX,emby.my
+DOMAIN-SUFFIX,637567.xyz
