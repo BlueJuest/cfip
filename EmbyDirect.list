@@ -54,6 +54,7 @@ DOMAIN-SUFFIX,biliblili.uk
 # Violet
 DOMAIN,emby.violet.run
 IP-CIDR,46.3.109.178/32
+IP-CIDR,89.251.26.222/32
 # 入机emby
 DOMAIN-SUFFIX,rjemby.com
 # 特卡影城
