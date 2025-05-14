@@ -37,6 +37,7 @@ DOMAIN,claw.younoyes.com
 DOMAIN-SUFFIX,1024.one
 DOMAIN-SUFFIX,1024.name
 DOMAIN-SUFFIX,j8.work
+DOMIAN,wm.atto.moe
 # Coco
 DOMAIN,www.259772.xyz
 # Anisaga
@@ -50,8 +51,10 @@ DOMAIN-SUFFIX,biliblili.uk
 DOMAIN,emby.violet.run
 IP-CIDR,46.3.109.178/32
 IP-CIDR,89.251.26.222/32
+DOMAIN,zll.yutron.eu.org
 # 入机emby
 DOMAIN-SUFFIX,rjemby.com
+DOMAIN,hkdg.998903.xyz
 # 特卡影城
 DOMAIN-SUFFIX,carlos.trade
 # 月饼emby
