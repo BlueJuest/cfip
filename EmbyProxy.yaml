@@ -1,4 +1,7 @@
 payload:
+# DPeak
+- DOMAIN,emby.bwihz.cn
+- DOMAIN,emby.dpeak.top
 # 西瓜🍉
 - DOMAIN-SUFFIX,1024.one
 - DOMAIN-SUFFIX,1024.name
