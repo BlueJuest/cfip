@@ -1,4 +1,6 @@
 payload:
+# 入机emby
+- DOMAIN-SUFFIX,rjf37.com
 # DPeak
 - DOMAIN,emby.bwihz.cn
 - DOMAIN,emby.dpeak.top
