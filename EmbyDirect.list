@@ -7,7 +7,6 @@ DOMAIN,ap-cn01.emby.bangumi.ca
 DOMAIN-SUFFIX,sfcj.org
 # 比比服
 DOMAIN-SUFFIX,beebi.org
-IP-CIDR,167.235.118.41/32
 # SDL
 DOMAIN-SUFFIX,saturday.video
 DOMAIN-SUFFIX,saturdayvideo.top
