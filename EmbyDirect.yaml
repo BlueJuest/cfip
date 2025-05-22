@@ -27,6 +27,7 @@ payload:
 # 69云
 - DOMAIN-SUFFIX,69yun69.com
 # YounoEmby
+- DOMAIN,emby.younoyes.com
 - DOMAIN,jp.younoyes.com
 - DOMAIN,us.younoyes.com
 - DOMAIN,dmit.younoyes.com
