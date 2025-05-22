@@ -22,7 +22,7 @@ payload:
 - DOMAIN,plumber.nezhasu.com
 - DOMAIN,shouer.910427.xyz
 # YounoEmby
-- DOMAIN,emby.younoyes.com
+# - DOMAIN,emby.younoyes.com
 # kiku
 - DOMAIN-SUFFIX,ucloudhost.top
 # 二次元
