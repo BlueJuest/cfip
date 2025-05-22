@@ -27,10 +27,10 @@ payload:
 # 69云
 - DOMAIN-SUFFIX,69yun69.com
 # YounoEmby
-# - DOMAIN,jp.younoyes.com
-# - DOMAIN,us.younoyes.com
-# - DOMAIN,dmit.younoyes.com
-# - DOMAIN,claw.younoyes.com
+- DOMAIN,jp.younoyes.com
+- DOMAIN,us.younoyes.com
+- DOMAIN,dmit.younoyes.com
+- DOMAIN,claw.younoyes.com
 # 西瓜🍉
 # - DOMAIN-SUFFIX,1024.one
 # - DOMAIN-SUFFIX,chilledmelon.com
