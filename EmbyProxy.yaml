@@ -39,5 +39,8 @@ payload:
 - DOMAIN-SUFFIX,mcjoker.xyz
 # 起点站
 - DOMAIN-SUFFIX,28.al
+# cc公益
+- DOMAIN,cc.coemn.com
+- DOMAIN-SUFFIX,carryz.net
 # STAR
 - DOMAIN,emby2.staryuki.com
