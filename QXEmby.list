@@ -42,8 +42,8 @@ HOST-SUFFIX,vfing.de,DIRECT
 HOST-SUFFIX,biliblili.uk,DIRECT
 # Violet
 HOST-SUFFIX,violet.run,DIRECT
-- IP-CIDR,46.3.109.178/32,DIRECT
-- IP-CIDR,89.251.26.222/32,DIRECT
+IP-CIDR,46.3.109.178/32,DIRECT
+IP-CIDR,89.251.26.222/32,DIRECT
 HOST,zll.yutron.eu.org,DIRECT
 # 入机emby
 # HOST-SUFFIX,rjf37.com,DIRECT
@@ -92,7 +92,7 @@ HOST-SUFFIX,embyplus.org,国际媒体
 # Misty
 HOST-SUFFIX,misty.cx,国际媒体
 # July
-- IP-CIDR,45.142.176.135/32,国际媒体
+IP-CIDR,45.142.176.135/32,国际媒体
 # 舒服
 HOST-SUFFIX,mcjoker.xyz,国际媒体
 # 起点站
