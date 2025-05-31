@@ -1,0 +1,104 @@
++rules:
+# EMBY 规则
+# 二次元
+- DOMAIN-SUFFIX,cdn.bgp.yt,DIRECT
+# NYA
+- DOMAIN,ap-cn01.emby.bangumi.ca,DIRECT
+# 非越
+- DOMAIN-SUFFIX,sfcj.org,DIRECT
+# 比比服
+- DOMAIN-SUFFIX,beebi.org,DIRECT
+# SDL
+- DOMAIN-SUFFIX,saturday.video,DIRECT
+- DOMAIN-SUFFIX,saturdayvideo.top,DIRECT
+# 天南
+- DOMAIN-SUFFIX,us.nanflix.net,DIRECT
+# jingzhe
+- DOMAIN-SUFFIX,jingzhe.pro,DIRECT
+# peach
+- DOMAIN-SUFFIX,embymv.link,DIRECT
+# jsq
+- DOMAIN,jsq.mooguu.xyz,DIRECT
+# 墨云阁
+# - DOMAIN-SUFFIX,mobaiemby.site,DIRECT
+# 69云
+- DOMAIN-SUFFIX,69yun69.com,DIRECT
+# YounoEmby
+- DOMAIN,jp.younoyes.com,DIRECT
+- DOMAIN,us.younoyes.com,DIRECT
+- DOMAIN,dmit.younoyes.com,DIRECT
+- DOMAIN,claw.younoyes.com,DIRECT
+# 西瓜🍉
+# - DOMAIN-SUFFIX,1024.one,DIRECT
+# - DOMAIN-SUFFIX,chilledmelon.com,DIRECT
+# Coco
+- DOMAIN,www.259772.xyz,DIRECT
+# Anisaga
+- DOMAIN-SUFFIX,anisaga.tv,DIRECT
+# 大V影院
+- DOMAIN-SUFFIX,viclub.top,DIRECT
+- DOMAIN-SUFFIX,vfing.de,DIRECT
+# 結束バンド
+- DOMAIN-SUFFIX,biliblili.uk,DIRECT
+# Violet
+- DOMAIN-SUFFIX,violet.run,DIRECT
+- IP-CIDR,46.3.109.178/32,DIRECT
+- IP-CIDR,89.251.26.222/32,DIRECT
+- DOMAIN,zll.yutron.eu.org,DIRECT
+# 入机emby
+# - DOMAIN-SUFFIX,rjf37.com,DIRECT
+# 特卡影城
+- DOMAIN-SUFFIX,carlos.trade,DIRECT
+# 月饼emby
+- DOMAIN-SUFFIX,emby.my,DIRECT
+- DOMAIN-SUFFIX,637567.xyz,DIRECT
+# DPeak
+# - DOMAIN,emby.bwihz.cn,DIRECT
+# - DOMAIN,emby.dpeak.top,DIRECT
+
+
+# 入机emby
+- DOMAIN-SUFFIX,rjf37.com,🎥 Emby
+# DPeak
+- DOMAIN,emby.bwihz.cn,🎥 Emby
+- DOMAIN,emby.dpeak.top,🎥 Emby
+# 西瓜🍉
+- DOMAIN-SUFFIX,1024.one,🎥 Emby
+- DOMAIN-SUFFIX,chilledmelon.com,🎥 Emby
+# 墨云阁
+- DOMAIN-SUFFIX,mobaiemby.site,🎥 Emby
+# 喵了个咪
+- DOMAIN-SUFFIX,meowfly.de,🎥 Emby
+# 探花TV
+- DOMAIN-SUFFIX,tanhuatv.site,🎥 Emby
+# CinaTrall
+- DOMAIN-SUFFIX,123456789.lol,🎥 Emby
+- DOMAIN-SUFFIX,9900990.buzz,🎥 Emby
+# Nebula-Media
+- DOMAIN,emby.nebula-media.org,🎥 Emby
+# PlumberEmby
+- DOMAIN,plumber.nezhasu.com,🎥 Emby
+- DOMAIN,shouer.910427.xyz,🎥 Emby
+# YounoEmby
+- DOMAIN,emby.younoyes.com,🎥 Emby
+# kiku
+- DOMAIN-SUFFIX,ucloudhost.top,🎥 Emby
+# 二次元
+- DOMAIN-SUFFIX,nijigem.by,🎥 Emby
+# NYA
+- DOMAIN,emby.bangumi.ca,🎥 Emby
+# 纸片人
+- DOMAIN-SUFFIX,embyplus.org,🎥 Emby
+# Misty
+- DOMAIN-SUFFIX,misty.cx,🎥 Emby
+# July
+- IP-CIDR,45.142.176.135/32,🎥 Emby
+# 舒服
+- DOMAIN-SUFFIX,mcjoker.xyz,🎥 Emby
+# 起点站
+- DOMAIN-SUFFIX,28.al,🎥 Emby
+# cc公益
+- DOMAIN,cc.coemn.com,🎥 Emby
+- DOMAIN-SUFFIX,carryz.net,🎥 Emby
+# STAR
+- DOMAIN,emby2.staryuki.com,🎥 Emby
