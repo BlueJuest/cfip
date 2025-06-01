@@ -55,3 +55,7 @@ payload:
 # DPeak
 # - DOMAIN,emby.bwihz.cn
 # - DOMAIN,emby.dpeak.top
+# STAR
+- DOMAIN-SUFFIX,staryuki.com
+# ASK
+- DOMAIN,emby.711.lol
