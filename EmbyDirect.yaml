@@ -53,8 +53,8 @@ payload:
 - DOMAIN-SUFFIX,emby.my
 - DOMAIN-SUFFIX,637567.xyz
 # DPeak
-# - DOMAIN,emby.bwihz.cn
-# - DOMAIN,emby.dpeak.top
+- DOMAIN,emby.bwihz.cn
+- DOMAIN,emby.dpeak.top
 # STAR
 - DOMAIN-SUFFIX,staryuki.com
 # ASK
