@@ -12,8 +12,7 @@ DOMAIN-SUFFIX,meowfly.de
 # 探花TV
 DOMAIN-SUFFIX,tanhuatv.site
 # CinaTrall
-DOMAIN-SUFFIX,123456789.lol
-DOMAIN-SUFFIX,9900990.buzz
+DOMAIN,emby1.123456789.lol
 # Nebula-Media
 DOMAIN,emby.nebula-media.org
 # PlumberEmby
