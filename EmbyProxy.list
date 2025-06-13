@@ -14,7 +14,7 @@ DOMAIN-SUFFIX,tanhuatv.site
 # CinaTrall
 DOMAIN,emby1.123456789.lol
 # Nebula-Media
-DOMAIN,emby.nebula-media.org
+DOMAIN-SUFFIX,nebula-media.org
 # PlumberEmby
 DOMAIN,plumber.nezhasu.com
 DOMAIN,shouer.910427.xyz
