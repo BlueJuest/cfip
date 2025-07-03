@@ -28,8 +28,7 @@ DOMAIN,us.younoyes.com
 DOMAIN,dmit.younoyes.com
 DOMAIN,claw.younoyes.com
 # 西瓜🍉
-# DOMAIN-SUFFIX,1024.one
-# DOMAIN-SUFFIX,chilledmelon.com
+DOMAIN-SUFFIX,chilledmelon.com
 # Coco
 DOMAIN,www.259772.xyz
 # Anisaga
