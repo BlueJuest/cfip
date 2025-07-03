@@ -46,7 +46,7 @@ IP-CIDR,46.3.109.178/32
 IP-CIDR,89.251.26.222/32
 DOMAIN,zll.yutron.eu.org
 # 入机emby
-# DOMAIN-SUFFIX,rjf37.com
+DOMAIN-SUFFIX,rjf37.com
 # 特卡影城
 DOMAIN-SUFFIX,carlos.trade
 # 月饼emby
