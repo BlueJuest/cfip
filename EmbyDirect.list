@@ -7,6 +7,8 @@ DOMAIN,ap-cn01.emby.bangumi.ca
 DOMAIN-SUFFIX,sfcj.org
 # 比比服
 DOMAIN-SUFFIX,beebi.org
+# 起点站
+DOMAIN-SUFFIX,28.al
 # SDL
 DOMAIN-SUFFIX,saturday.video
 DOMAIN-SUFFIX,saturdayvideo.top
