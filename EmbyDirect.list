@@ -3,6 +3,7 @@
 DOMAIN-SUFFIX,cdn.bgp.yt
 # NYA
 DOMAIN,ap-cn01.emby.bangumi.ca
+DOMAIN,ap-cn02.emby.bangumi.ca
 # 非越
 DOMAIN-SUFFIX,sfcj.org
 # 比比服
