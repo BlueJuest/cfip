@@ -11,7 +11,6 @@ DOMAIN-SUFFIX,beebi.org
 # 起点站
 DOMAIN-SUFFIX,28.al
 # SDL
-DOMAIN-SUFFIX,saturday.video
 DOMAIN-SUFFIX,saturdayvideo.top
 # 天南
 DOMAIN-SUFFIX,us.nanflix.net
@@ -32,8 +31,6 @@ DOMAIN,dmit.younoyes.com
 DOMAIN,claw.younoyes.com
 # 西瓜🍉
 DOMAIN-SUFFIX,chilledmelon.com
-# Coco
-DOMAIN,www.259772.xyz
 # Anisaga
 DOMAIN-SUFFIX,anisaga.tv
 # 大V影院
@@ -51,8 +48,6 @@ DOMAIN-SUFFIX,637567.xyz
 # DPeak
 DOMAIN,emby.bwihz.cn
 DOMAIN,emby.dpeak.top
-# STAR
-DOMAIN-SUFFIX,staryuki.com
 # ASK
 DOMAIN,emby.711.lol
 # cc公益
