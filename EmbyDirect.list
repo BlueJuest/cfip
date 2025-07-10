@@ -4,24 +4,14 @@ DOMAIN-SUFFIX,cdn.bgp.yt
 # NYA
 DOMAIN,ap-cn01.emby.bangumi.ca
 DOMAIN,ap-cn02.emby.bangumi.ca
-# 非越
-DOMAIN-SUFFIX,sfcj.org
-# 比比服
-DOMAIN-SUFFIX,beebi.org
-# 起点站
-DOMAIN-SUFFIX,28.al
 # SDL
 DOMAIN-SUFFIX,saturdayvideo.top
 # 天南
 DOMAIN-SUFFIX,us.nanflix.net
 # jingzhe
 DOMAIN-SUFFIX,jingzhe.pro
-# peach
-DOMAIN-SUFFIX,embymv.link
 # jsq
 DOMAIN,jsq.vban.xyz
-# 墨云阁
-DOMAIN-SUFFIX,mobaiemby.site
 # 69云
 DOMAIN-SUFFIX,69yun69.com
 # YounoEmby
@@ -33,11 +23,6 @@ DOMAIN,claw.younoyes.com
 DOMAIN-SUFFIX,chilledmelon.com
 # Anisaga
 DOMAIN-SUFFIX,anisaga.tv
-# 大V影院
-DOMAIN-SUFFIX,viclub.top
-DOMAIN-SUFFIX,vfing.de
-# 結束バンド
-DOMAIN-SUFFIX,biliblili.uk
 # 入机emby
 DOMAIN-SUFFIX,rjf37.com
 # 特卡影城
