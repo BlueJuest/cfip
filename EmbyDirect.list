@@ -39,6 +39,7 @@ DOMAIN,emby.711.lol
 DOMAIN,cc.embycc.link
 DOMAIN,cc.coemn.com
 DOMAIN-SUFFIX,carryz.net
+IP-CIDR,46.3.101.53/32
 # 稳健emby
 DOMAIN,emby.wenjian.de
 # ZoxFree
