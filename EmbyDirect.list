@@ -44,5 +44,7 @@ IP-CIDR,46.3.101.53/32
 DOMAIN,emby.wenjian.de
 # ZoxFree
 DOMAIN,zoxfree.3767483.xyz
+# SNTP.Lite
+DOMAIN,lite.cn2gias.uk
 # StarEmby
 DOMAIN-SUFFIX,staryuki.me
