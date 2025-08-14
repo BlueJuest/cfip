@@ -10,8 +10,6 @@ DOMAIN-SUFFIX,saturdayvideo.top
 DOMAIN-SUFFIX,us.nanflix.net
 # jingzhe
 DOMAIN-SUFFIX,jingzhe.pro
-# jsq
-DOMAIN,jsq.vban.xyz
 # YounoEmby
 DOMAIN,jp.younoyes.com
 DOMAIN,us.younoyes.com
@@ -21,8 +19,6 @@ DOMAIN,claw.younoyes.com
 DOMAIN-SUFFIX,chilledmelon.com
 # Anisaga
 DOMAIN-SUFFIX,anisaga.tv
-# 入机emby
-DOMAIN-SUFFIX,rjf37.com
 # 特卡影城
 DOMAIN-SUFFIX,carlos.trade
 # 月饼emby
@@ -40,5 +36,3 @@ IP-CIDR,46.3.101.53/32
 DOMAIN,emby.wenjian.de
 # ZoxFree
 DOMAIN,zoxfree.3767483.xyz
-# StarEmby
-DOMAIN-SUFFIX,staryuki.me
