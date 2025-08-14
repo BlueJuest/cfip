@@ -1,3 +1,5 @@
+# jsq
+DOMAIN,jsq.vban.xyz
 # 69云
 DOMAIN-SUFFIX,69yun69.com
 # ASK
@@ -15,10 +17,6 @@ DOMAIN-SUFFIX,mobaiemby.site
 DOMAIN-SUFFIX,embymv.link
 # 非越
 DOMAIN-SUFFIX,sfcj.org
-# 比比服
-DOMAIN-SUFFIX,beebi.org
-# 起点站
-DOMAIN-SUFFIX,28.al
 # Violet
 DOMAIN,emby.violet.run
 DOMAIN-SUFFIX,5203166.xyz
@@ -26,15 +24,8 @@ DOMAIN-SUFFIX,5203166.xyz
 DOMAIN-SUFFIX,ciallo.party
 # 喵了个咪
 DOMAIN-SUFFIX,meowfly.de
-# CinaTrall
-DOMAIN,emby1.123456789.lol
-# 探花TV
-DOMAIN-SUFFIX,tanhuatv.site
 # Nebula-Media
 DOMAIN-SUFFIX,nebula-media.org
-# PlumberEmby
-DOMAIN,plumber.nezhasu.com
-DOMAIN,shouer.910427.xyz
 # YounoEmby
 DOMAIN,emby.younoyes.com
 # kiku
@@ -47,8 +38,6 @@ DOMAIN,emby.bangumi.ca
 DOMAIN-SUFFIX,embyplus.org
 # Misty
 DOMAIN-SUFFIX,misty.cx
-# July
-DOMAIN,alist7.eu.org
 # 舒服
 DOMAIN-SUFFIX,mcjoker.xyz
 
