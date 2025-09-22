@@ -15,12 +15,8 @@ DOMAIN,jp.younoyes.com
 DOMAIN,us.younoyes.com
 DOMAIN,dmit.younoyes.com
 DOMAIN,claw.younoyes.com
-# 西瓜🍉
-DOMAIN-SUFFIX,chilledmelon.com
 # Anisaga
 DOMAIN-SUFFIX,anisaga.tv
-# 特卡影城
-DOMAIN-SUFFIX,carlos.trade
 # 月饼emby
 DOMAIN-SUFFIX,emby.my
 DOMAIN-SUFFIX,637567.xyz
